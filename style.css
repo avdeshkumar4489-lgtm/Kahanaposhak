@@ -51,7 +51,7 @@ nav a:hover{
 
 /* Hero */
 .hero{
-    height:100vh;
+    height:100px;
     background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.8)),
     url('https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1400&q=80') center/cover;
     display:flex;
