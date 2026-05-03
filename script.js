@@ -14,6 +14,12 @@ function scrollToWomenProducts(){
     });
 }
 
+function scrollToKidsProducts(){
+    document.getElementById("Kids products").scrollIntoView({
+        behavior:"smooth"
+    });
+}
+
 function scrollTofooter(){
     document.getElementById("footer").scrollIntoView({
         behavior:"smooth"
