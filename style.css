@@ -126,7 +126,7 @@ nav a:hover{
 }
 
 .mencard{
-    width: 100%;
+    width:100%;
 }
 
 .card{
@@ -135,7 +135,7 @@ nav a:hover{
     overflow:hidden;
     transition:0.4s;
     box-shadow:0 10px 20px rgba(0,0,0,.5);
-    margin-top: 30px;
+    margin-top:30px;
 }
 
 .card:hover{
