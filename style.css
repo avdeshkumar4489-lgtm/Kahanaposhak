@@ -123,7 +123,10 @@ nav a:hover{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(130px,1fr));
     gap:30px;
-    hight:500px;
+}
+
+.mencard{
+    width: 100%;
 }
 
 .card{
@@ -132,6 +135,7 @@ nav a:hover{
     overflow:hidden;
     transition:0.4s;
     box-shadow:0 10px 20px rgba(0,0,0,.5);
+    margin-top: 30px;
 }
 
 .card:hover{
